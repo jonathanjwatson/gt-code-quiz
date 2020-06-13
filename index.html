@@ -27,6 +27,26 @@
     ></script>
   </head>
   <body>
-      <h1>Code Quiz!</h1>
+    <nav class="nav nav-justified">
+      <a class="nav-link active" href="./high-scores.html">High Scores</a>
+      <p class="nav-link">
+        Time Remaining: <span id="time-remaining">75</span>
+      </p>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+        <div class="col text-center" id="welcome">
+          <h1>Welcome to the Code Quiz!</h1>
+          <p>Click the button below to get started.</p>
+          <button class="btn btn-info" id="start-button">Start</button>
+        </div>
+      </div>
+      <div class="row">
+          <div class="col" id="questions" style="display:none">
+            <h1>Question 1</h1>
+          </div>
+      </div>
+    </div>
   </body>
 </html>

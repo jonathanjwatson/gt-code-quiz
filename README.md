@@ -11,11 +11,12 @@
 
 ## Code Quiz
 
-1. Structure out the HTML with
+1. Structure out the index HTML with
     a. Header/Nav
         i. High Scores link
         ii. Timer
     b. Containers/Rows/Columns with IDs to manipulate
         i. Welcome
         ii. Questions
+2. 
     
