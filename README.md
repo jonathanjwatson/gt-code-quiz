@@ -18,5 +18,13 @@
     b. Containers/Rows/Columns with IDs to manipulate
         i. Welcome
         ii. Questions
-2. 
+2. Begin structuring our JavaScript/jQuery
+    a. Create a script.js file
+    b. Link it to the index.html
+    c. Test that:
+        i. it is correctly linked
+        ii. jQuery is accessible
+    d. Create our test bank with an array of objects
+3. Add event listener for Start Button
+
     
